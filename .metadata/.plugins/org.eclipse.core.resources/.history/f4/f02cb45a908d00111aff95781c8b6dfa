@@ -1,0 +1,9 @@
+
+public class Frosh extends Student {
+
+	public Frosh(String name, int id) {
+		super(name, id); // Calls Student constructor.
+		setUnits(0);
+	}
+
+}

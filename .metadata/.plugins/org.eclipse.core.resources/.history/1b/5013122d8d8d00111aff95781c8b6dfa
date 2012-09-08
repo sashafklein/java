@@ -1,0 +1,17 @@
+import java.awt.*;
+
+/** */
+public class Student {
+
+	// Keeps track of info to be stored as instance variables.
+	public Student (String name, int id) {
+		studentName = name;
+		studentID = id;
+	}
+
+// Private instance variables
+private String studentName;
+private int studentID;
+private double unitsEarned;
+
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="acm.graphics.GRect"/>
+<fullyQualifiedTypeName name="java.awt.Color"/>
+<fullyQualifiedTypeName name="acm.program.DialogProgram"/>
+<fullyQualifiedTypeName name="java.math.BigInteger"/>
+<fullyQualifiedTypeName name="acm.util.RandomGenerator"/>
+<fullyQualifiedTypeName name="acm.program.ConsoleProgram"/>
+</qualifiedTypeNameHistroy>
